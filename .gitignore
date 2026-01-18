@@ -5,8 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-*.txt
-*.pth
+notes.txt
 
 
 # Virtual environments
